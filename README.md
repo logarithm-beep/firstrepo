@@ -1,4 +1,4 @@
 # firstrepo
-<h1>first git repository</h1>
+first git repository
 <br>
 author :- Dhruv Pandey
