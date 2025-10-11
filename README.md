@@ -1,4 +1,4 @@
 # firstrepo
 first git repository
 <br>
-author :- Dhruv Pandeydsa
+author :- Dhruv Pandeys
